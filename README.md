@@ -20,6 +20,11 @@ I'm a **Data Analyst transitioning into Penetration Testing**, passionate about 
 
 ## 💻 Projects
 
+🐾 Pets Snuggy Ups - Custom Pet Cushions Website
+
+Pets Snuggy Ups is a responsive, modern web landing page for a South African boutique pet comfort brand. This project demonstrates a full front-end implementation for a small e-commerce website, showcasing products, gallery images, and a simple cart integrated with WhatsApp for ordering.
+https://github.com/Pets-Snuggy-Ups/Pets-Snuggy-Ups
+
 ### 1. **Vulnerable Web App Simulation**
 - **Tech:** HTML, CSS, JavaScript, Python (Flask)
 - Simulated a web app with intentional vulnerabilities to practice **XSS, SQLi, and authentication bypass**.
