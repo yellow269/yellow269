@@ -1,36 +1,61 @@
-<h2 align="left">Hi 👋! My name is julian and I'm a bugs and website errors, from South Africa</h2>
+# 👋 Hi, I'm Julian
 
-###
+![Header Image](https://images.unsplash.com/photo-1581091215360-50f1a5dc345b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NjUyOXwwfDF8c2VhcmNofDEwfHxjb21wdXRlcnxlbnwwfHx8fDE2ODgzNzU1MzM&ixlib=rb-4.0.3&q=80&w=1200)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yellow269&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yellow269&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+I'm a **Data Analyst transitioning into Penetration Testing**, passionate about uncovering vulnerabilities and building secure systems. I enjoy automating tasks with Python, creating interactive dashboards, and exploring cybersecurity challenges.
 
-###
+---
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+## 🔧 Tech Stack
 
-###
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-</div>
+---
 
-###
+## 💻 Projects
 
-<br clear="both">
+### 1. **Vulnerable Web App Simulation**
+- **Tech:** HTML, CSS, JavaScript, Python (Flask)
+- Simulated a web app with intentional vulnerabilities to practice **XSS, SQLi, and authentication bypass**.
+- [View Project](https://github.com/yourusername/vulnerable-webapp)
 
-<img src="https://raw.githubusercontent.com/yellow269/yellow269/output/snake.svg" alt="Snake animation" />
+### 2. **Data Analytics Dashboard**
+- **Tech:** Python, Pandas, Matplotlib, Plotly
+- Built an interactive dashboard analyzing sales and customer data.
+- [View Project](https://github.com/yourusername/data-dashboard)
 
-###
+### 3. **Dockerized PenTest Lab**
+- **Tech:** Docker, Kali Linux, Metasploitable
+- Created a portable pen-testing lab environment using Docker for practice and experimentation.
+- [View Project](https://github.com/yourusername/pentest-lab)
+
+### 4. **Portfolio Website**
+- **Tech:** HTML, CSS, JavaScript
+- My personal website showcasing projects, blog posts, and contact info.
+- [View Project](https://yourusername.github.io/portfolio)
+
+---
+
+## 📈 GitHub Stats
+
+![Julian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+
+---
+
+## 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@example.com)
+
+---
+
+> “Stay curious, stay ethical, and keep learning.”  
+> – Julian
